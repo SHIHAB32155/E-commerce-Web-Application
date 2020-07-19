@@ -26,6 +26,9 @@ When we will click checkout button we will able to see like below:
 When we will click continue we will able to see make payment button and when we will click make payment button we will able to see popup window and when we will click ok button in popup window we will go back again our main page like below:
 ![image](https://user-images.githubusercontent.com/41536380/87871018-5755fe00-c9ad-11ea-890f-cb22137b85ed.png)
 
+
+To see the live video how it's work please follow this link https://www.youtube.com/watch?v=pyzI4fklda4&t=8s
+
 For admin login: username: shihab, 
 password: Mohon
 
