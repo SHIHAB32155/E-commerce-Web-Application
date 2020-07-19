@@ -14,7 +14,7 @@ Thirdly, now we should install virtual Environment to install this we should wri
 Now we can run this application in our system. For running server we should write command 'python manage.py runserver' in our pycharm terminal and cope the server address like below and we should paste it in our favourite browser:
 ![image](https://user-images.githubusercontent.com/41536380/87870344-4f935b00-c9a7-11ea-858b-4d42f7cb7312.png)
 
-When we will paste the sever address in our favourite browser then we will able to see this our application is running like below:
+When we will paste the sever address in our favourite browser then we will able to see our application is running like below:
 ![image](https://user-images.githubusercontent.com/41536380/87870446-65ede680-c9a8-11ea-8442-c41fda3702c5.png)
 
 
