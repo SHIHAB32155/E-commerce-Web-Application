@@ -17,6 +17,9 @@ Now we can run this application in our system. For running server we should writ
 When we will paste the sever address in our favourite browser then we will able to see our application is running like below:
 ![image](https://user-images.githubusercontent.com/41536380/87870446-65ede680-c9a8-11ea-8442-c41fda3702c5.png)
 
+we can click add to cart button to add product in out cart icon, later when we will click cart icon we will able to see like below:
+![image](https://user-images.githubusercontent.com/41536380/87870558-705cb000-c9a9-11ea-8f15-065e5679e086.png)
+
 
 
 
