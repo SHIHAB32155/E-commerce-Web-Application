@@ -11,9 +11,8 @@ Secondly, now we should install python django to install django we should write 
 
 Thirdly, now we should install virtual Environment to install this we should write 'pip install virtualenv' in our command Prompt.
 
-Now we can run this application in our system. 
-![image](https://user-images.githubusercontent.com/41536380/87870306-cda33200-c9a6-11ea-9c75-0aa91c67b981.png)
-
+Now we can run this application in our system. For running server we should write command 'python manage.py runserver' in our pycharm terminal and cope the server address like below:
+![image](https://user-images.githubusercontent.com/41536380/87870344-4f935b00-c9a7-11ea-858b-4d42f7cb7312.png)
 
 
 
