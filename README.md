@@ -23,7 +23,7 @@ we can click add to cart button to add product in out cart icon, later when we w
 When we will click checkout button we will able to see like below:
 ![image](https://user-images.githubusercontent.com/41536380/87870685-b8300700-c9aa-11ea-8eaf-3597c7b3cc02.png)
 
-For admin login: username: shihab 
+For admin login: username: shihab, 
 password: Mohon
 
 
