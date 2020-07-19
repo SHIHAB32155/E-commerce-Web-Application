@@ -11,7 +11,8 @@ Secondly, now we should install python django to install django we should write 
 
 Thirdly, now we should install virtual Environment to install this we should write 'pip install virtualenv' in our command Prompt.
 
-Now we can run this application in our system. How we can run application and how it's work i showed it in bellow video: 
+Now we can run this application in our system. 
+![image](https://user-images.githubusercontent.com/41536380/87870306-cda33200-c9a6-11ea-9c75-0aa91c67b981.png)
 
 
 
